@@ -1,1 +1,6 @@
-# main
+# main#text origin
+a = 1
+b = 122
+
+c = a + b
+prin(c)
